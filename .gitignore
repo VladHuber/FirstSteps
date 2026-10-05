@@ -1,0 +1,10 @@
+# Rust build artifacts (matches target/ in every task crate)
+target/
+**/target/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
